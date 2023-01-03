@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: rmmcosta/python-hw:latest
+          tags: rmmcosta/python-hw:2.0.2
